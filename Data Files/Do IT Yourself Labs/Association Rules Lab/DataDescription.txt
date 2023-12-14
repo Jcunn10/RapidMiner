@@ -1,0 +1,12 @@
+Elapsed_Time: This is the amount of time each respondent spent completing civil engagement survey. It is expressed in decimal minutes (e.g. 4.5 in this attribute would be four minutes, thirty seconds).
+Time_in_Community: This question on the survey asked the person if they have lived in the city for 0-2 years, 3-9 years, or 10+ years; and is recorded in the data set as Short, Medium, or Long respectively.
+Gender: The survey respondent’s gender.
+Working: A yes/no column indicating whether or not the respondent currently has a paid job.
+Age: The survey respondent’s age in years.
+Family: A yes/no column indicating whether or not the respondent is currently a member of a family-oriented community organization, such as Big Brothers/Big Sisters, childrens’ recreation or sports leagues, genealogy groups, etc.
+Hobbies: A yes/no column indicating whether or not the respondent is currently a member of a hobby-oriented community organization, such as amateur radio, outdoor recreation, motorcycle or bicycle riding, etc.
+Social_Club: A yes/no column indicating whether or not the respondent is currently a member of a community social organization, such as Rotary International, Lion’s Club, etc.
+Political: A yes/no column indicating whether or not the respondent is currently a member of a political organization with regular meetings in the community, such as a political party, a grass-roots action group, a lobbying effort, etc.
+Professional: A yes/no column indicating whether or not the respondent is currently a member of a professional organization with local chapter meetings, such as a chapter of a law or medical society, a small business owner’s group, etc.
+Religious: A yes/no column indicating whether or not the respondent is currently a member of a church in the community.
+Support_Group: A yes/no column indicating whether or not the respondent is currently a member of a support-oriented community organization, such as Alcoholics Anonymous, an anger management group, etc.	

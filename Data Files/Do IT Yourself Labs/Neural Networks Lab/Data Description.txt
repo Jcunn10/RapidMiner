@@ -1,0 +1,32 @@
+
+Gender: 1 = male 2 = female 
+Age: 1 = 18 to 15, 2 = 25 to 35, 3 = 35 to 45, 4 = 45 to 55
+Edu: education level,  1 = high school, 2 = college, 3 = graduate degree
+Duration: duration of use,  1 = less than 6 months,, 2= 6 months to less than 1 year. 3= 1 year to less than 5 years , 4 = 5 years or more 
+Freq: frequency of use,  1 = Less than once a month, 2= Once a month, 3= A few times a month, 4=Once a week, 5=A few times a week, 6 = About once a day, 7= Several times a day 
+
+IR: Information Relevance (The extent to which information is salient to one’s job.)
+ICU: information currency (The extent to which information is current and up-to-date)
+IA: Information accuracy (The extent to which information is free from error)
+IU: information understandability (The extent to which information can be understood)
+IF: information format (The extent to which information is presented well)
+ICO: Information Completeness (The extent to which the information contains all the necessary parts )
+ICR: Information credibility (The extent to which the information is trustworthy )
+EOU: system ease of use (The extent to which using a system is free of effort )
+SyR: System reliability (The extent to which a system functions dependably )
+SyF: System flexibility (The extent to which a system adapts to changing requirements)
+SyA: System Availability (The extent to which a system is available to use)
+SyT:	System Response time (The extent to which a system carries out requests for action in a timely manner )
+SyI: System Integration (The extent to which a system brings together data and information from various sources )	
+SySc: System security (The extent to which the information in the system is kept safe. )
+SrR:  Service reliability (Consistency and dependability of service performance )	
+SrRp: Service responsiveness (The ability to provide prompt service )
+SrA: service assurance (Ability of the support service to inspire trust and confidence )	
+SrC: service courtesy (The support service’s politeness and respectfulness )
+SrSc: service security (The degree to which service encounters provide a safe and risk free environment )
+SrCp: 	service competence (The ability or capabilities of the support service to provide service )
+SrP	service privacy (Degree to which service support encounters are kept confidential)
+SrCm	service communication (The support services ability to communicate clearly and understandably )
+SrAc: 	service access (The accessibility and availability of support services )
+SrE: service empathy (Individual attention and caring that is conveyed by the support services )	
+SrTa: service tangibles (how neat physical evidence of the service are )

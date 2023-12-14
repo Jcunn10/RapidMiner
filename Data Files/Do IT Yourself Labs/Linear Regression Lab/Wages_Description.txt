@@ -1,0 +1,11 @@
+EmployeeID: Employee ID
+Wage: Weekly wages in dollars	
+Hours: Hours worked per week	
+Iq: Employee’s IQ	
+Educ: Employee’s education in terms of number of years 	
+Exper: Number of years of job related experience	
+Tenure: Number of years being with the current employer	
+Age: Age 	
+Married: Marital status 0 = no, 1 = yes	
+Urban: 	Residence status 0 = no, 1 = yes
+Sibs: Number of siblings
